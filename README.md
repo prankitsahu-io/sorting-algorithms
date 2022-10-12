@@ -1,2 +1,3 @@
 # sorting-algorithms
 hacktoberfest-accepted
+This repo consists of various sorting algoriths...
